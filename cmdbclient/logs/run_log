@@ -1,0 +1,28 @@
+
+2016-10-22-16:11:56	ERROR	{'AssetDataInvalid': 'Cannot find asset object in DB by using asset id [None] and SN [VMware-56 4d 17 1e 46 31 51 7c-97 70 35 ef 5f e6 da ab] '}
+2016-10-23-09:11:45	WARNING	{'AssetUpdateWarning': "Asset component [4:02:42:07:82:da:d2]'s field [sn] is not provided in reporting data "}
+2016-10-23-09:11:45	WARNING	{'AssetUpdateWarning': "Asset component [4:02:42:07:82:da:d2]'s field [bonding] is not provided in reporting data "}
+2016-10-23-09:11:45	WARNING	{'AssetUpdateWarning': "Asset component [4:00:0c:29:e6:da:ab]'s field [sn] is not provided in reporting data "}
+2016-10-23-09:11:45	WARNING	{'AssetUpdateWarning': "Asset component [4:00:0c:29:e6:da:ab]'s field [bonding] is not provided in reporting data "}
+2016-10-23-09:11:45	WARNING	{'AssetUpdateWarning': "Asset component [VMware-56 4d 17 1e 46 31 51 7c-97 70 35 ef 5f e6 da ab sn:VMware-56 4d 17 1e 46 31 51 7c-97 70 35 ef 5f e6 da ab]'s field [raid_type] is not provided in reporting data "}
+2016-10-23-09:11:59	WARNING	{'AssetUpdateWarning': "Asset component [4:02:42:07:82:da:d2]'s field [sn] is not provided in reporting data "}
+2016-10-23-09:11:59	WARNING	{'AssetUpdateWarning': "Asset component [4:02:42:07:82:da:d2]'s field [bonding] is not provided in reporting data "}
+2016-10-23-09:11:59	WARNING	{'AssetUpdateWarning': "Asset component [4:00:0c:29:e6:da:ab]'s field [sn] is not provided in reporting data "}
+2016-10-23-09:11:59	WARNING	{'AssetUpdateWarning': "Asset component [4:00:0c:29:e6:da:ab]'s field [bonding] is not provided in reporting data "}
+2016-10-23-09:11:59	WARNING	{'AssetUpdateWarning': "Asset component [VMware-56 4d 17 1e 46 31 51 7c-97 70 35 ef 5f e6 da ab sn:VMware-56 4d 17 1e 46 31 51 7c-97 70 35 ef 5f e6 da ab]'s field [raid_type] is not provided in reporting data "}
+2016-10-23-09:12:31	WARNING	{'AssetUpdateWarning': "Asset component [4:02:42:07:82:da:d2]'s field [sn] is not provided in reporting data "}
+2016-10-23-09:12:31	WARNING	{'AssetUpdateWarning': "Asset component [4:02:42:07:82:da:d2]'s field [bonding] is not provided in reporting data "}
+2016-10-23-09:12:31	WARNING	{'AssetUpdateWarning': "Asset component [4:00:0c:29:e6:da:ab]'s field [sn] is not provided in reporting data "}
+2016-10-23-09:12:31	WARNING	{'AssetUpdateWarning': "Asset component [4:00:0c:29:e6:da:ab]'s field [bonding] is not provided in reporting data "}
+2016-10-23-09:12:31	WARNING	{'AssetUpdateWarning': "Asset component [VMware-56 4d 17 1e 46 31 51 7c-97 70 35 ef 5f e6 da ab sn:VMware-56 4d 17 1e 46 31 51 7c-97 70 35 ef 5f e6 da ab]'s field [raid_type] is not provided in reporting data "}
+2016-10-23-09:14:13	ERROR	{'AssetDataInvalid': 'Cannot find asset object in DB by using asset id [4] and SN [VMware-56 4d 17 1e 46 31 51 7c-97 70 35 ef 5f e6 da ab] '}
+2016-10-23-10:08:55	ERROR	{'MandatoryCheckFailed': 'The field [asset_id] is mandatory and not provided in your reporting data'}
+2016-10-23-10:09:00	ERROR	{'MandatoryCheckFailed': 'The field [asset_id] is mandatory and not provided in your reporting data'}
+2016-10-23-10:09:16	ERROR	{'MandatoryCheckFailed': 'The field [asset_id] is mandatory and not provided in your reporting data'}
+2016-10-23-10:16:05	ERROR	{'MandatoryCheckFailed': 'The field [asset_id] is mandatory and not provided in your reporting data'}
+2016-10-23-10:16:08	ERROR	{'MandatoryCheckFailed': 'The field [asset_id] is mandatory and not provided in your reporting data'}
+2016-10-23-10:17:27	ERROR	{'MandatoryCheckFailed': 'The field [asset_id] is mandatory and not provided in your reporting data'}
+2016-10-23-12:15:13	INFO	{'NewComponentAdded': "Asset[id:7 name:VMware-56 4d 17 1e 46 31 51 7c-97 70 35 ef 5f e6 da ab] --> component[NIC] has justed added a new item [{'model': 'unknown', 'bonding': 0, 'ipaddress': '172.17.0.1', 'asset_id': 7, 'macaddress': '02:42:07:82:da:d2', 'name': 'docker0', 'netmask': '255.255.0.0', 'sn': None}]"}
+2016-10-23-12:15:13	INFO	{'NewComponentAdded': "Asset[id:7 name:VMware-56 4d 17 1e 46 31 51 7c-97 70 35 ef 5f e6 da ab] --> component[NIC] has justed added a new item [{'model': 'unknown', 'bonding': 0, 'ipaddress': '192.168.1.8', 'asset_id': 7, 'macaddress': '00:0c:29:e6:da:ab', 'name': 'eno16777736', 'netmask': '255.255.255.0', 'sn': None}]"}
+2016-10-23-12:15:13	INFO	{'NewComponentAdded': "Asset[id:7 name:VMware-56 4d 17 1e 46 31 51 7c-97 70 35 ef 5f e6 da ab] --> component[RAM] has justed added a new item [{'model': 'DRAM', 'capacity': '8192', 'asset_id': 7, 'slot': 'RAM slot #0', 'sn': 'Not Specified'}]"}
+2016-10-23-12:15:13	WARNING	{'AssetUpdateWarning': "Asset component [VMware-56 4d 17 1e 46 31 51 7c-97 70 35 ef 5f e6 da ab sn:VMware-56 4d 17 1e 46 31 51 7c-97 70 35 ef 5f e6 da ab]'s field [raid_type] is not provided in reporting data "}
